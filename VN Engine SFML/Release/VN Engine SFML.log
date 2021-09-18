@@ -1,0 +1,60 @@
+﻿  Config.cpp
+  ConfigParser.cpp
+  Script.cpp
+E:\Колледж\Курс 4\Проекты\Дипломный проект\VN Engine SFML\VN Engine SFML\Script.cpp(26,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Source.cpp
+E:\Колледж\Курс 4\Проекты\Дипломный проект\VN Engine SFML\VN Engine SFML\Source.cpp(78,59): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+E:\Колледж\Курс 4\Проекты\Дипломный проект\VN Engine SFML\VN Engine SFML\Source.cpp(84,48): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+E:\Колледж\Курс 4\Проекты\Дипломный проект\VN Engine SFML\VN Engine SFML\Source.cpp(84,36): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+E:\Колледж\Курс 4\Проекты\Дипломный проект\VN Engine SFML\VN Engine SFML\Source.cpp(89,49): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+E:\Колледж\Курс 4\Проекты\Дипломный проект\VN Engine SFML\VN Engine SFML\Source.cpp(89,37): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+E:\Колледж\Курс 4\Проекты\Дипломный проект\VN Engine SFML\VN Engine SFML\Source.cpp(105,62): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\Колледж\Курс 4\Проекты\Дипломный проект\VN Engine SFML\VN Engine SFML\Source.cpp(105,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\Колледж\Курс 4\Проекты\Дипломный проект\VN Engine SFML\VN Engine SFML\Source.cpp(178,33): warning C4244: +=: преобразование "float" в "unsigned int", возможна потеря данных
+E:\Колледж\Курс 4\Проекты\Дипломный проект\VN Engine SFML\VN Engine SFML\Source.cpp(315,106): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+  Sprite.cpp
+E:\Колледж\Курс 4\Проекты\Дипломный проект\VN Engine SFML\VN Engine SFML\Sprite.cpp(33,45): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+E:\Колледж\Курс 4\Проекты\Дипломный проект\VN Engine SFML\VN Engine SFML\Sprite.cpp(33,37): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+E:\Колледж\Курс 4\Проекты\Дипломный проект\VN Engine SFML\VN Engine SFML\Sprite.cpp(35,43): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+E:\Колледж\Курс 4\Проекты\Дипломный проект\VN Engine SFML\VN Engine SFML\Sprite.cpp(35,40): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  Создание кода
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 698 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  VN Engine SFML.vcxproj -> E:\Колледж\Курс 4\Проекты\Дипломный проект\VN Engine SFML\Release\VN Engine SFML.exe

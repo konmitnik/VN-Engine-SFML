@@ -1,0 +1,31 @@
+bg 1.png
+txt Презентация программы. Для продолжения нажмите Enter или LMB
+sprite_left left.png
+sprite_center center.png
+sprite_right right.png
+txt Можно добавить спрайты персонажей поверх фона
+clear left
+txt  А еще можно стереть спрайт слева ...
+clear center
+txt ... по центру ...
+clear right
+txt ... и справа
+txt Программа поддерживает длинные строки: 1234567890qwertyuiopasdfghjkl;
+delay 2000
+txt Это была задержка
+txt Можно сменить шрифт
+font pause.ttf
+txt Например такой
+font script.ttf
+txt Можно сменить фон ...
+bg 2.png
+txt ... на такой
+txt Включим звук
+music 1.ogg
+txt English text
+txt Можно поставить программу на паузу. Для этого нажмите RMB или Escape
+txt Есть простые анимации, такие как fade in/out
+fade in 5
+delay 1500
+fade out 5
+txt Вот и все. Что бы закрыть программу, нажмите на X в правом верхнем углу окна.
